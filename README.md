@@ -4,4 +4,4 @@
 Readme test
 
 html:
-<a href="http://esp32.de" target="_blank"> Info </a>
+<a href="http://esp32.de"> Info </a>
